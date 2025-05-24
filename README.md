@@ -4,7 +4,7 @@ Een moderne blogapplicatie gebouwd met Laravel, Livewire, Filament en Tailwind C
 
 De beheerdersinterface is gerealiseerd met behulp van het Filament Admin Panel, inclusief verschillende beheermogelijkheden.
 
-<img src="screenshot.jpeg" alt="Screenshot" width="600"/>
+![Screenshot](./screenshot.jpeg)
 
 ## ⚙️ Functionaliteiten
 
