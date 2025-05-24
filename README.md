@@ -3,7 +3,7 @@
 Een moderne blogapplicatie gebouwd met Laravel, Livewire, Filament en Tailwind CSS. Deze applicatie stelt editors in staat om blogs te maken, bekijken en te reageren op andere blogs, inclusief functionaliteiten zoals likes, discussieformulieren en tags.
 
 De beheerdersinterface is gerealiseerd met behulp van het Filament Admin Panel, inclusief verschillende beheermogelijkheden.
-
+![Screenshot](screenshot.jpeg)
 ## ⚙️ Functionaliteiten
 
 ### Voor gebruikers
