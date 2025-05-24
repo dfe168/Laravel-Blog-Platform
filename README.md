@@ -4,8 +4,6 @@ Een moderne blogapplicatie gebouwd met Laravel, Livewire, Filament en Tailwind C
 
 De beheerdersinterface is gerealiseerd met behulp van het Filament Admin Panel, inclusief verschillende beheermogelijkheden.
 
-![Screenshot](./screenshot.jpeg)
-
 ## ⚙️ Functionaliteiten
 
 ### Voor gebruikers
